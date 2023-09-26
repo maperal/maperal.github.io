@@ -1,0 +1,38 @@
+{
+	title: "Vuelta a Galicia 2022",
+	stages: [
+		{
+			title: "De Freixeiro a Remoães"
+		},
+		{
+			title: "De Remoães a Xermeade"
+		},
+		{
+			title: "De Xermeade a O Bolo"
+		},
+		{
+			title: "De O Bolo a A Rúa"
+		},
+		{
+			title: "De A Rúa a Baralla"
+		},
+		{
+			title: "De Baralla a Fondo de Nois"
+		},
+		{
+			title: "De Fondo de Nois a Valdoviño"
+		},
+		{
+			title: "De Valdoviño a Ponteceso"
+		},
+		{
+			title: "De Ponteceso a Muros"
+		},
+		{
+			title: "De Muros a Vilagarcía de Arousa"
+		},
+		{
+			title: "De Vilagarcía de Arousa a Freixeiro"
+		}
+	]
+}
